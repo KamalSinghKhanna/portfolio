@@ -568,3 +568,13 @@ b, strong {
     vertical-align: top;
   }
 }
+
+.skill-text {
+  color: #474559;
+  font-weight: bold;
+  font-size: 16px;
+  vertical-align: middle;
+  display: inline-block;
+  margin-left: 15px;
+  list-style-type:disc;
+}
